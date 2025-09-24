@@ -1,0 +1,6 @@
+outs:
+- md5: 801f8030dad1df22a53edfdbfa4e80f0
+  size: 29981
+  isexec: true
+  hash: md5
+  path: Housing.csv
